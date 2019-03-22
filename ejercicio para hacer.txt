@@ -1,0 +1,11 @@
+se ingresan numeros enteros(no se sabe cuantos)(scannerf). los numeros tienen que estar comprendidos entre -500 
+y 500(validar), determinar
+a)cuantos numeros pares
+b) cuantos positivos
+c)cuantos negativos.
+d)cuantas veces ingreso el 0
+e) promedio de numeros pos
+f)maximos y minimos(en que orden se ingreso).
+g)la suma de los negativos
+h)la diferencia entre negativos. (negativos se le resta positivos).
+i)cuantos numeros estan entre -239 y 100.
