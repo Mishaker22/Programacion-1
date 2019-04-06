@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554563353 source:d:\michell\vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
