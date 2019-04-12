@@ -1,0 +1,1 @@
+hacer una funcion que permita modificar el dato de un alumno, por ejemplo la nota, usando legajo.
