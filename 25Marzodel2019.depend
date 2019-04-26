@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1556200273 source:d:\mis documentos\nueva carpeta\25marzodel2019\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../Producto.h"
+
+1556200273 d:\mis documentos\nueva carpeta\producto.h
+
+1556199898 source:d:\mis documentos\nueva carpeta\25marzodel2019\producto.c
+	<stdio.h>
+	<string.h>
+	"../Producto.h"
+
