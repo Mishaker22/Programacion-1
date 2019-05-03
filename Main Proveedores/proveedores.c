@@ -13,6 +13,7 @@ void inicializarProveedores (eProveedor listado[], int tam)
     char duenio [3] [50]={"ypf", "axion", "shell"};
 
     int i;
+}
 
 void inicializarProducto (eProducto lista[], int tam)
 {
@@ -38,18 +39,19 @@ void inicializarProducto (eProducto lista[], int tam)
 }//copiar y pegar para el examen
 int dameLugarLibre(eProducto listado[], int tam)
 {
-    int i;
-    int index=-1;
+   int i;
+    int index = -1;
 
-    for (i=0; i<tam; i++)
+    for(i=0; i<tam; i++)
     {
         if(listado[i].estado==LIBRE)
         {
-            index=i;
+            index = i;
             break;
         }
-        return index;
     }
+    return index;
+}
 
 }
 //int existeProducto(eProducto elProducto, eProducto listado[])
@@ -207,6 +209,7 @@ int editarProducto(eProducto lista[], int tam)
 
    return 0;
 }
+
 
 
 

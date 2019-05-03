@@ -1,0 +1,5 @@
+1. todos los productos con su proveedor
+2. por cada proveedor sus productos
+3. por cada proveedor la cantidad de productos
+4. la suma de precios de los productos de cada proveedor
+5. el/ los proveedores que proveen mas articulos.

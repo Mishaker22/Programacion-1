@@ -1,8 +1,14 @@
 # depslib dependency file v1.0
-1556809886 source:d:\michell\main proveedores\main.c
+1556887339 source:d:\michell\main proveedores\main.c
 	<stdio.h>
 	<stdlib.h>
 	"proovedores.h"
 
 1556809886 d:\michell\main proveedores\proovedores.h
+
+1556887034 source:d:\michell\main proveedores\proveedores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"proovedores.h"
 

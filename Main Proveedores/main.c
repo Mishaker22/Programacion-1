@@ -37,7 +37,7 @@ void mostrarArrayProductosConProveedores (eProducto listaProductos[], int tamPro
             {
                if(listaProductos[i].idProveedor == listaProveedores[j].id)
                {
-                   mostrarProveedor(listaProveedores[j]);
+                   mostrarProveedor(listaProveedores[i]);
                }
 
             }
