@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1558616581 source:d:\michell\semana 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Persona.h"
+
+1558616176 d:\michell\semana 8\persona.h
+
+1558616176 source:d:\michell\semana 8\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Persona.h"
+
