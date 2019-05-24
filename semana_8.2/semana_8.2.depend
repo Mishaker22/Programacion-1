@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558701414 source:d:\michell\semana_8.2\main.c
+	<stdio.h>
+	<stdlib.h>
+
