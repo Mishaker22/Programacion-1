@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1558711328 source:d:\michell\semama_8.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+
+1558711195 d:\michell\semama_8.3\empleado.h
+
+1558711195 source:d:\michell\semama_8.3\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"empleado.h"
+
