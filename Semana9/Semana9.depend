@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1559220579 source:d:\mis documentos\michell\semana9\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"alumno.h"
+
+1559220579 d:\mis documentos\michell\semana9\alumno.h
+
+1559223326 source:d:\mis documentos\michell\semana9\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alumno.h"
+
