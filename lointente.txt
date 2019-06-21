@@ -1,0 +1,55 @@
+typedef estruct
+{
+int legajo;
+float nota;
+}eAlumno;
+
+
+int alumno_setLegajo(eAlumno* this, int legajo)
+{
+int estado= -1;
+if(this != NULL)
+{
+this ->legajo=legajo;
+estado=0;
+}
+return estado;
+}
+
+int alumno_setNota(eAlumno* this, float nota)
+{
+int estado= -1;
+if(this != NULL)
+{
+this ->nota=nota;
+estado=0;
+}
+return estado;
+}
+
+eAlumno* newAlumno()//contructor por defecto
+
+{
+eAlumno*e;
+e=(eAlumno*)malloc(sizeof(eAlumno));
+return e
+}
+
+--------------------------------------------------------------------------------
+#define LEGAJO_INICIO 0
+
+int main()
+{
+
+int Legajo= LEGAJO_INICIO;
+
+eAlumno* alumno;
+alumno=newAlumno();
+if(set legajo(alumno,LEGAJO_INICIO))
+{IF(setNota(alumno,7))
+{
+ok
+}
+}
+
+}
